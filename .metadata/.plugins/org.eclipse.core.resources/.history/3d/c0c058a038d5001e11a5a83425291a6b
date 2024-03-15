@@ -1,0 +1,5 @@
+package com.jsp.spring.SpringProject_Aop.entity;
+
+public class Animal {
+
+}

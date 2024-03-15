@@ -1,0 +1,22 @@
+package com.jsp.spring.aop;
+
+import javax.lang.model.AnnotatedConstruct;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.jsp.spring.aop.entity.Animal;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+     ApplicationContext ac=new AnnotationConfigApplicationContext(App.class);
+     Animal animal = ac.getBean(Animal.class);
+     
+    }
+}

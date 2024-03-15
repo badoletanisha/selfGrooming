@@ -1,0 +1,5 @@
+127.0.0.1 - - [14/Feb/2024:02:04:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:02:04:10 +0530] "GET /HibernateProj_Compant_NativeQuery/ HTTP/1.1" 200 240
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:02:04:10 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+127.0.0.1 - - [14/Feb/2024:02:20:35 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2024:02:20:37 +0530] "GET /HibernateProj_Compant_NativeQuery/index.jsp HTTP/1.1" 200 391

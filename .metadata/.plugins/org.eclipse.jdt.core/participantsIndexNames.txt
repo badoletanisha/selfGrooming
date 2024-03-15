@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\sujal\OneDrive\Desktop\Grooming\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\214547776.index
+\ServletProj_Employee_Management_System\src\main\resources
+C:\Users\sujal\OneDrive\Desktop\Grooming\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\603054486.index
+\HibernateProj_Compant_NativeQuery\src\main\resources

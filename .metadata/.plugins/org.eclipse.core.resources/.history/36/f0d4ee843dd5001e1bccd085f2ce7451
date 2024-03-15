@@ -1,0 +1,5 @@
+package com.jsp.spring.aop.aspect;
+
+public class AnimalAspect2 {
+
+}
